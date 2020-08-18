@@ -49,7 +49,7 @@ If you want to customize the theme templates, then fork it and use the fork as y
 Configure your `config.yaml` file of your site as below:
 
 ```yaml
-baseURL: http://example.org/
+baseURL: https://example.org/
 languageCode: en-us
 title: "Toha"
 theme: "toha"
@@ -254,4 +254,4 @@ Pull requests are most welcomed and I will be happy to review. Just follow the f
 ## Attribution
 
 - Thanks [Anup Deb](https://dribbble.com/anupdeb) for his design guidance.
-- Many of the illustrations have been taken from [iconscout](http://iconscout.com/).
+- Many of the illustrations have been taken from [iconscout](https://iconscout.com/).
