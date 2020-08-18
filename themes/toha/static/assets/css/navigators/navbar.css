@@ -265,6 +265,11 @@
     width: auto;
     margin-right: 15px;
   }
+  .top-navbar {
+    height: 5.75em;
+    padding-top:0;
+  }
+  
 }
 
 /* Small devices (landscape phones, 576px and up) */
