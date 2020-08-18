@@ -1,7 +1,5 @@
-baseURL: https://bathackers.netlify.app//
-DefaultContentLanguage: "es"
-
-languageCode: es-es
+baseURL: https://bathackers.netlify.app
+DefaultContentLanguage: es
 title: "Bat Hackers"
 theme: "toha"
 
