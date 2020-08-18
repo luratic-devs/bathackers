@@ -1,0 +1,99 @@
+# section information
+section:
+  name: About
+  title: Nosotros
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Analistas digitales
+# your company information
+company:
+  name: Bat Hackers.
+  url: "https://www.bathackers.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Somos apasionados de la analítica digital con casi 5 años de experiencia en el sector. Disfrutamos automatizando, buscando soluciones y resolviendo problemas.
+
+
+Somos **analistas digitales técnicos**, impares, imparciales y felices. 
+
+
+
+
+Buscamos la pansexualidad **360**.
+
+
+
+**Somos equipo**.
+"
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "info@bathackers.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/precariostecnicos/"
+
+- name: Slack
+  icon: "fab fa-slack"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+ - name: Better
+   percentage: 85
+   color: blue
+ - name: Analytics
+   percentage: 90
+   color: green
+ - name: Tracking
+   percentage: 85
+   color: orange
+ - name: Hackers
+   percentage: 90
+   color: black
+# - name: Leadership
+#   percentage: 85
+#   color: blue
+# - name: Team Work
+#   percentage: 90
+#   color: yellow
+# - name: Communication
+#   percentage: 85
+#   color: pink
+# - name: Hard Working
+#   percentage: 85
+#   color: green
+# - name: Fast Learner
+#   percentage: 85
+#   color: sky
+# - name: Problem Solving
+#   percentage: 85
+#   color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

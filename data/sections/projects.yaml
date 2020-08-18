@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  title: GTM Templates
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: "Web"
+  filter: "Web"
+- name: "Servidor"
+  filter: "Web"
+- name: Etiquetas
+  filter: "Etiquetas"
+- name: Variables
+  filter: "Variables"
+- name: Clientes
+  filter: "Variables"
+
+# your projects
+projects:
+- name: Tit Tok
+  logo: images/projects/kubernetes.png
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: "https://github.com/precariostecnicos/TikTok" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/TikTok"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Plantilla de Google Tag Manager para la configuración del píxel o etiqueta la red social TikTok."
+  tags: ["Web", "Etiquetas", "cloud"]
+
+- name: Tensorflow
+  logo: images/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["professional", "machine-learning","academic"]
+
+- name: A sample academic paper
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://www.example.com"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  tags: ["academic","iot"]
+
+- name: Nocode
+  logo: images/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
+
+- name: Toha
+  logo: images/projects/gtm.svg
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/hossainemruz/toha
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]
