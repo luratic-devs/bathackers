@@ -2,7 +2,7 @@
 section:
   name: Experiences
   title: Experiencias
-  enable: true
+  enable: false 
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections

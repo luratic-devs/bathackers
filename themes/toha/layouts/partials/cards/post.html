@@ -6,14 +6,14 @@
       </div>
       <div class="card-body">
         <h5 class="card-title">{{ .Title }}</h5>
-        <p class="card-text post-summary">{{ .Summary }}</p>
+        <p class="card-text post-summary">{{ .Description }}</p>
       </div>
       <div class="card-footer">
-        <span class="float-left">{{ .Date.Format "January 2, 2006" }}</span>
+        <span class="float-left">{{ .Date.Format "02/01/2006" }}</span>
         <a
         href="{{ .RelPermalink }}"
         class="float-right btn btn-outline-info btn-sm"
-        >Read</a
+        >{{i18n "read"}}</a
         >
       </div>
     </div>

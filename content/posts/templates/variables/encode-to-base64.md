@@ -11,7 +11,8 @@ project_url : "[GitHub](https://github.com/precariostecnicos/encodeBase64)
 [GTM Template Gallery](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/EncodeBase64)
 "
 categories: ["UTILITY"]
-description: "Lets you to decode strings from their base64 representation. Returns undefined when provided with invalid input."
+description_en: "Lets you to decode strings from their base64 representation. Returns undefined when provided with invalid input."
+description: En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permita codificar cadenas de texto en base64. Esta variable devuelve el valor undefined** cuándo el valor de entrada no sea codificable. 
 draft: false
 
 hero: "/images/portfolio/jstemplate.png"
@@ -23,10 +24,9 @@ menu:
     weight: 1
 ---
 
+En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permita codificar cadenas de texto en base64. Esta variable devuelve el valor **undefined** cuándo el valor de entrada no sea convertible. 
 
 ##   Configuración
-
-Plantilla de variable para  Google Tag Manager que te permite codificar cadenas de texto en base64. Devuelve el valor **undefined** cuándo el valor de entrada no sea convertible. 
 
 Para usar esta variable en Google Tag Manager sería tan sencillo como añadir esta [plantilla variable de GTM](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/EncodeBase64) a vuestro espacio de trabajo. 
 

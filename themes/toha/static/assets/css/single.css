@@ -131,6 +131,10 @@ body {
   text-align: center;
 }
 
+.title h1 {
+  color: #0062cc;
+}
+
 .post-content {
   padding: 15px;
 }

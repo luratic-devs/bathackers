@@ -7,10 +7,12 @@ author:
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["branding"]
-description: "Returns a number that represents the current time in milliseconds since the epoch (UTC timezone)."
+description: "En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te devuelva un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC)."
 draft: false
 hero: "/images/portfolio/jstemplate.png"
-
+author:
+    name: Bat Hackers
+    image: "/images/avatar.png"
 menu:
   sidebar:
     parent: variables
@@ -18,10 +20,9 @@ menu:
     identifier: Timestamp
     weight: 1
 ---
+En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te devuelva un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC). 
 
 ##   Configuración
-
-Devuelve un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC).
 
 Para usar esta variable en Google Tag Manager sería tan sencillo como añadir esta [plantilla de variable para GTM](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/Timestamp) a vuestro espacio de trabajo.
 

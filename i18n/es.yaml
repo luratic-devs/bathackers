@@ -2,3 +2,7 @@
   translation: Inicio   
 - id: toc
   translation: Índice     
+- id: posts
+  translation: Documentación
+- id: read
+  translation: Continúa leyendo

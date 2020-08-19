@@ -11,7 +11,8 @@ project_url : "[GitHub](https://github.com/precariostecnicos/DecodeBase64)
 [GTM Template Gallery](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/DecodeBase64)
 "
 categories: ["UTILITY"]
-description: "Lets you to decode strings from their base64 representation. Returns undefined when provided with invalid input."
+description_en: "Lets you to decode strings from their base64 representation. Returns undefined when provided with invalid input."
+description: "En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permite decodificar cadenas de texto en base64. Esta variable devuelve el valor **undefined** cuándo el valor de entrada es incorrecto."
 draft: false
 hero: "/images/portfolio/jstemplate.png"
 menu:
@@ -23,10 +24,9 @@ menu:
 
 ---
 
+En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permite decodificar cadenas de texto en base64. Devuelve el valor **undefined** cuándo el valor de entrada es incorrecto".
 
-##   Configuración
-
-Plantilla de variable para  Google Tag Manager que te permite decodificar cadenas de texto en base64. Devuelve el valor **undefined** cuándo el valor de entrada es incorrecto. 
+## Configuración
 
 Para usar esta variable en Google Tag Manager sería tan sencillo como añadir esta [plantilla variable de GTM](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/DecodeBase64) a vuestro espacio de trabajo. Una vez añadida la template o plantilla ir a *Variables > nueva* buscar la variable de *Decode from Base64*  .
 

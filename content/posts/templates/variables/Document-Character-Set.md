@@ -7,7 +7,8 @@ author:
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["branding"]
-description: "Returns the value of document.characterSet."
+description_en: "Returns the value of document.characterSet."
+description:  En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que devuelva el document.characterSet.
 draft: false
 hero: "/images/portfolio/jstemplate.png"
 
@@ -19,7 +20,9 @@ menu:
     weight: 1
 ---
 
-Devuelve el valor del **document.characterSet**.
+En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que devuelva el **document.characterSet**.
+
+## Configuración
 
 Para usar esta variable en Google Tag Manager sería tan sencillo como añadir esta [plantilla de variable para GTM](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/DocumentCharacterSet) a vuestro espacio de trabajo.
 

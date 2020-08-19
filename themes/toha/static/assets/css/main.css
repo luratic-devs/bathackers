@@ -119,6 +119,10 @@ img.right {
   -webkit-transition: all 0.3s ease-out;
   overflow: hidden;
 }
+.card-title {
+  color:#0062cc;
+  font-weight: bold;
+}
 
 .card-img-sm {
   width: 32px;

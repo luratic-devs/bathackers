@@ -1,7 +1,7 @@
 # section information
 section:
   name: Projects
-  enable: true
+  enable: false
   title: GTM Templates
   weight: 4
   showOnNavbar: true
