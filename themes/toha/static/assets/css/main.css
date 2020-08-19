@@ -27,7 +27,10 @@ h5 {
 }
 
 strong {
-  color: #1c2d41 !important;
+  color: #000 !important;
+}
+b, strong {
+  font-weight: 900;
 }
 
 p {

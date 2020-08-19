@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-date: 2020-05-12T12:14:34+06:00
+date: 2020-08-19T15:14:34+06:00
 image: "/images/portfolio/tiktok.png"
 author:
     name: Bat Hackers

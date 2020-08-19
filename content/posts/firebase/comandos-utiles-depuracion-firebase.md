@@ -1,6 +1,6 @@
 ---
 title: "Comandos útiles para la depuración y validación de la analítica en Android"
-date: 2020-08-18T12:14:34+06:00
+date: 2020-08-19T13:14:34+06:00
 image: "/images/portfolio/firebase.jpg"
 author:
     name: Bat Hackers

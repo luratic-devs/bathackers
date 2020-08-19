@@ -1,6 +1,6 @@
 ---
 title: Los principios técnicos de Google Tag Manager
-date: 2020-07-18T06:14:34+00:00
+date: 2020-08-19T06:14:35+00:00
 image: images/blog/post-5.jpg
 description: ''
 author:

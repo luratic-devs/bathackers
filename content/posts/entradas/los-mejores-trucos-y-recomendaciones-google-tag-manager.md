@@ -1,6 +1,6 @@
 ---
 title: Trucos y recomendaciones en  Google Tag Manager
-date: 2020-07-18T06:14:34.000+00:00
+date: 2020-08-19T13:14:34+04:00
 image: "/images/portfolio/item-8.png"
 description: ''
 author:
