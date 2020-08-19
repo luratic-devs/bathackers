@@ -18,7 +18,7 @@
 		    'permalink': '{{ .Permalink }}',
 		    'type': '{{ .Type }}',
 		    'translated': '{{ .IsTranslated }}',
-		    {{ if .Params.author -}} 'author': '{{ if .Params.author -}}{{ .Params.author }}{{- else if .Site.Author.name -}}{{ .Site.Author.name }}{{- end }}',{{ end }}	
+		    {{ if .Params.author -}} 'author': '{{ if .Params.author -}}{{ .Params.author.name }}{{- else if .Site.Author.name -}}{{ .Site.Author.name }}{{- end }}',{{ end }}	
 		    {{ if .Params.categories}}{{$category := index (.Params.categories) 0}}'category':'{{ $category }}', {{ end }}
 		    {{ if .Params.tags}}'tags':'{{ delimit .Params.tags "|" }}', {{ end }}
 		    {{ if .IsHome }}'type2': 'home',{{ else if eq .Kind "taxonomy" }}'type2': 'tag',{{ else if eq .Type "page" }}'type2': 'page',{{ else }}'type2': 'post',{{ end }}
