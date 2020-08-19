@@ -3,4 +3,5 @@
     font-style: normal;
     font-weight: normal;
     src: local('Selima'), url('Selima.woff') format('woff');
+    font-display: auto;
 }
