@@ -15,10 +15,10 @@ markup:
 colors:
   background: "#fff"
 # Enable Google Analytics
-googleAnalytics: UA-XXXXXXXXX-X
+googleAnalytics: 
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+disqusShortname: 
 
 # Enable global emoji support
 enableEmoji: true
