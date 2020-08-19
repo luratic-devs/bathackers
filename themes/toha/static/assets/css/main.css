@@ -46,9 +46,23 @@ a:hover {
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  color: #8392a5;
+  color: #fff;
 }
 
+.icons8-menu { 
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url('/assets/css/icons/icons8-menu-24.png');
+  background-size: 100%;
+ }
+ .icons8-menu-list { 
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url('/assets/css/icons/icons8-list-24.png');
+  background-size: 100%;
+ }
 .btn-dark {
   background-color: #3c4858;
   border-color: #3c4858;

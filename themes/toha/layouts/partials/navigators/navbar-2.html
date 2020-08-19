@@ -9,14 +9,14 @@
       {{ $invertedLogo = .Site.Params.logo.inverted }}
     {{ end }}
       <button class="navbar-toggler navbar-dark" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
-      <span class="navbar-toggler-icon"></span>
+      <span class="icons8-menu"></span>
     </button>
     <a class="navbar-brand" href="{{ site.BaseURL }}">
       <img src="{{ $mainLogo }}">
       {{- site.Title -}}
     </a>
     <button class="navbar-toggler navbar-dark" id="toc-toggler" type="button" onclick="toggleTOC()">
-      <span class="navbar-toggler-icon"></span>
+      <span class="icons8-menu-list"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="top-nav-items">
