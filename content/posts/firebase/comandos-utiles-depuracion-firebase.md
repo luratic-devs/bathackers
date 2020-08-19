@@ -13,7 +13,7 @@ draft: false
 hero: "/images/portfolio/firebase.jpg"
 menu:
   sidebar:
-    parent: variables
+    parent: Firebase
     name: Comandos útiles para Firebase en Android
     identifier: Comandos útiles para Firebase en Android
     weight: 1
