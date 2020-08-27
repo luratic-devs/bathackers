@@ -12,7 +12,7 @@ project_url : "[GitHub](https://github.com/precariostecnicos/encodeBase64)
 "
 categories: ["UTILITY"]
 description_en: "Lets you to decode strings from their base64 representation. Returns undefined when provided with invalid input."
-description: En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permita codificar cadenas de texto en base64. Esta variable devuelve el valor undefined** cuándo el valor de entrada no sea codificable. 
+description: En este artículo explicamos como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permita codificar cadenas de texto en base64. Esta variable devuelve el valor undefined** cuándo el valor de entrada no sea codificable. 
 draft: false
 
 hero: "/images/portfolio/jstemplate.png"
@@ -24,7 +24,7 @@ menu:
     weight: 1
 ---
 
-En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permita codificar cadenas de texto en base64. Esta variable devuelve el valor **undefined** cuándo el valor de entrada no sea convertible. 
+En este artículo explicamos como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te permita codificar cadenas de texto en base64. Esta variable devuelve el valor **undefined** cuándo el valor de entrada no sea convertible. 
 
 ##   Configuración
 

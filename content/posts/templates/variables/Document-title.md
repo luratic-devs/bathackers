@@ -8,7 +8,7 @@ author:
 project_url : "#"
 categories: ["branding"]
 description_en: "Returns the value of document.title."
-description: En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que devuelva el **document.title**.
+description: En este artículo explicamos como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que devuelva el **document.title**.
 
 draft: false
 hero: "/images/portfolio/jstemplate.png"
@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que devuelva el **document.title**.
+En este artículo explicamos como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que devuelva el **document.title**.
 
 ##   Configuración
 

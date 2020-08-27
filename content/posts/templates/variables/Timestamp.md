@@ -7,7 +7,7 @@ author:
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["branding"]
-description: "En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te devuelva un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC)."
+description: "En este artículo explicamos como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te devuelva un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC)."
 draft: false
 hero: "/images/portfolio/jstemplate.png"
 author:
@@ -20,7 +20,7 @@ menu:
     identifier: Timestamp
     weight: 1
 ---
-En este artículo se explica como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te devuelva un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC). 
+En este artículo explicamos como añadir y configurar nuestra plantilla de  variable para Google Tag Manager que te devuelva un número que representa el tiempo transcurrido (en milisegundos) desde el inicio del registro de tiempo (zona horaria UTC). 
 
 ##   Configuración
 
