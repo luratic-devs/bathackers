@@ -3,7 +3,7 @@ title: "Decode from Base64"
 date: 2020-08-19T11:14:34+06:00
 image: "/images/portfolio/jstemplate.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "[GitHub](https://github.com/precariostecnicos/DecodeBase64)
 

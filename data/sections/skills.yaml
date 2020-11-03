@@ -4,7 +4,7 @@ section:
   title: Habilidades
   enable: false
   weight: 5
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 

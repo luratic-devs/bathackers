@@ -3,7 +3,7 @@ title: "Encode Base64"
 date: 2020-08-19T13:14:34+05:00
 image: "/images/portfolio/jstemplate.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "[GitHub](https://github.com/precariostecnicos/encodeBase64)
 

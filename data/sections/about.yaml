@@ -2,15 +2,15 @@
 section:
   name: About
   title: Nosotros
-  enable: true
+  enable: false
   weight: 1
-  showOnNavbar: true
+  showOnNavbar: false
 
 # your designation
 designation: Analistas digitales
 # your company information
 company:
-  name: Bat Hackers.
+  name: Luratic.
   url: "https://www.bathackers.com"
 
 # your resume. this file path should be relative to you "static" directory

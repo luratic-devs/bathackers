@@ -3,7 +3,7 @@ title: "Comandos útiles para la depuración y validación de la analítica en A
 date: 2020-08-19T13:14:34+06:00
 image: "/images/portfolio/firebase.jpg"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["branding"]
@@ -24,7 +24,8 @@ menu:
 
 Una de las formas para encontrar el nombre del paquete en Android es ejecutando en el ADB el siguiente comando: 
 
-```adb shell pm list packages | grep <nombre supuesto paquete> ```
+```adb shell ```
+``` pm list packages | grep <nombre supuesto paquete> ```
 
 
 
@@ -34,6 +35,10 @@ Una de las formas para encontrar el nombre del paquete en Android es ejecutando 
 
 ### Desactivar DebugView Firebase:
 ``` adb shell setprop debug.firebase.analytics.app <package> ```
+
+o 
+
+``` adb shell setprop debug.firebase.analytics.app .none. ```
 
 ### Activación de los logs
 

@@ -3,7 +3,7 @@ title: "FitAnalytics - Fit Finder"
 date: 2020-08-18T12:14:34+06:00
 image: "/images/portfolio/fitanalytics.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["design"]

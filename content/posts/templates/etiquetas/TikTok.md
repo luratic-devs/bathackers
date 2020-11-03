@@ -3,7 +3,7 @@ title: "TikTok"
 date: 2020-08-19T15:14:34+06:00
 image: "/images/portfolio/tiktok.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "[GitHub](https://github.com/precariostecnicos/TikTok)
 [GTM Template Gallery](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/TikTok)"

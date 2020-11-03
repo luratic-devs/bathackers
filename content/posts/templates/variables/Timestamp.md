@@ -3,7 +3,7 @@ title: "Timestamp"
 date: 2020-08-12T12:14:34+06:00
 image: "/images/portfolio/jstemplate.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["branding"]
@@ -11,7 +11,7 @@ description: "En este artículo explicamos como añadir y configurar nuestra pla
 draft: false
 hero: "/images/portfolio/jstemplate.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 menu:
   sidebar:

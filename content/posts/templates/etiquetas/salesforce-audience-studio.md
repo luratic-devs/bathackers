@@ -3,7 +3,7 @@ title: "Salesforce Audience Studio"
 date: 2020-05-12T12:14:34+06:00
 image: "/images/portfolio/salesforceaudiencestudio.png"
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 project_url : "#"
 categories: ["branding"]

@@ -4,7 +4,7 @@ date: 2020-08-19T06:14:35+00:00
 image: images/blog/post-5.jpg
 description: ''
 author:
-    name: Bat Hackers
+    name: Luratic
     image: "/images/avatar.png"
 menu:
   sidebar:
