@@ -1,5 +1,6 @@
 ---
 title: Recomendaciones GTM
+draft: true
 menu:
   sidebar:
     name: Recomendaciones GTM
