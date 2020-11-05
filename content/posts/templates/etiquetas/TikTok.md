@@ -13,7 +13,7 @@ hero: "/images/portfolio/tiktok.png"
 draft: false
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: TikTok
     identifier: tiktok
     weight: 1
@@ -39,6 +39,6 @@ Código que puede interferir de forma anómala, provocando múltiples catástrof
 > Con GTM siempre mucho **sentidiño**.
 
 ### ```Atención!```
-Somos precarios técnicos que buscan ser **BatHackers**. Por eso, te estaremos eternamente agradecidos de que nos apadrines como técnicos: 
+Somos precarios técnicos que buscan ser **Luratic**. Por eso, te estaremos eternamente agradecidos de que nos apadrines como técnicos: 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?)

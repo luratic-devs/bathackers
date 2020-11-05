@@ -13,7 +13,7 @@ hero: "/images/portfolio/kakao.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Kakao
     identifier: Kakao
     weight: 1

@@ -9,7 +9,7 @@ project_url : "#"
 categories: ["branding"]
 description_en: ""
 description:  Vamos indicar los comandos que nosotros utilizamos para la validación y depuración de la analítica en Android.. 
-draft: false
+draft: true
 hero: "/images/portfolio/firebase.jpg"
 menu:
   sidebar:

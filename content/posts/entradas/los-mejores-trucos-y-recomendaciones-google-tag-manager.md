@@ -3,6 +3,7 @@ title: Trucos y recomendaciones en  Google Tag Manager
 date: 2020-08-19T13:14:34+04:00
 image: "/images/portfolio/item-8.png"
 description: ''
+draft: true
 author:
     name: Luratic
     image: "/images/avatar.png"

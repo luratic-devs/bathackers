@@ -13,7 +13,7 @@ hero: "/images/portfolio/snapchat.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Snapchat
     identifier: Snapchat
     weight: 1

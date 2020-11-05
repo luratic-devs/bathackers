@@ -13,7 +13,7 @@ hero: "/images/portfolio/pushnews.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Pushnews
     identifier: Pushnews
     weight: 1

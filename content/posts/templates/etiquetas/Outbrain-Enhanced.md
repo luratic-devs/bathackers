@@ -14,7 +14,7 @@ hero: "/images/portfolio/outbrain.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Outbrain Enhanced
     identifier: Outbrain Enhanced
     weight: 1

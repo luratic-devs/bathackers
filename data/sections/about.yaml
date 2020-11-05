@@ -11,7 +11,7 @@ designation: Analistas digitales
 # your company information
 company:
   name: Luratic.
-  url: "https://www.bathackers.com"
+  url: "https://www.Luratic.com"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
@@ -43,7 +43,7 @@ Somos **BAT**.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "info@bathackers.com"
+  url: "info@Luratic.com"
 
 - name: Github
   icon: "fab fa-github"

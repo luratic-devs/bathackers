@@ -13,7 +13,7 @@ hero: "/images/portfolio/hubspot.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: HubSpot
     identifier: HubSpot
     weight: 1

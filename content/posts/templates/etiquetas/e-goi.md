@@ -12,7 +12,7 @@ draft: false
 hero: "/images/portfolio/e-goi.png"
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: E-goi
     identifier: E-goi
     weight: 1

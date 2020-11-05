@@ -9,7 +9,7 @@ project_url : "#"
 categories: ["firebase", "incidencias firebase","ecommerce", "apps", "android", "ios"]
 description_en: ""
 description:  En este artículo se irán recogiendo todas las problemáticas habituales que nos vamos encontrando en la integración de la analítica en apps con el nuevo paradigma Firebase.  
-draft: false
+draft: true
 hero: "/images/portfolio/firebase.jpg"
 menu:
   sidebar:

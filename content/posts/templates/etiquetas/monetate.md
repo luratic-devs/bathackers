@@ -13,7 +13,7 @@ hero: "/images/portfolio/monetate.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Monetate
     identifier: Monetate
     weight: 1

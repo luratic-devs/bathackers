@@ -13,7 +13,7 @@ hero: "/images/portfolio/lucky-orange.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Lucky Orange
     identifier: Lucky Orange
     weight: 1

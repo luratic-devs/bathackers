@@ -1,9 +1,9 @@
 ---
-title: Etiquetas
+title: Tags
 menu:
   sidebar:
     parent: GTM Templates 
-    name: Etiquetas
-    identifier: etiquetas
+    name: Tags
+    identifier: tags
     weight: 100
 ---

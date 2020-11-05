@@ -13,7 +13,7 @@ hero: "/images/portfolio/salesforceaudiencestudio.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Salesforce Audience Studio
     identifier: Salesforce Audience Studio
     weight: 1

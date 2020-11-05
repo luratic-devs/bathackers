@@ -13,7 +13,7 @@ hero: "/images/portfolio/ligatus.png"
 
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: Ligatus
     identifier: Ligatus
     weight: 1

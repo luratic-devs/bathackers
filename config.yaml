@@ -47,7 +47,7 @@ params:
     inverted: /images/logo-white.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/luratic/bathackers
+  gitRepo: https://github.com/luratic/Luratic
 
   # specify whether you want to write blog post or not
   enableBlogPost: false

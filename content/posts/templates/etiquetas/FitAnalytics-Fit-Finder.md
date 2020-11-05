@@ -12,7 +12,7 @@ draft: false
 hero: "/images/portfolio/fitanalytics.png"
 menu:
   sidebar:
-    parent: etiquetas
+    parent: tags
     name: FitAnalytics - Fit Finder
     identifier: FitAnalytics - Fit Finder
     weight: 1
