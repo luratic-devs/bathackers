@@ -1,5 +1,5 @@
 ---
-title: "Salesforce Audience Studio"
+title: "Salesforce Event Tracker"
 date: 2020-05-12T12:14:34+06:00
 image: "/images/portfolio/salesforceaudiencestudio.png"
 author:
@@ -14,8 +14,8 @@ hero: "/images/portfolio/salesforceaudiencestudio.png"
 menu:
   sidebar:
     parent: tags
-    name: Salesforce Audience Studio
-    identifier: Salesforce Audience Studio
+    name: Salesforce Event Tracker
+    identifier: Salesforce Event Tracker
     weight: 1
 ---
 [More Info](https://konsole.zendesk.com/hc/en-us/articles/360000754674-JavaScript-Consent-Tag-Spec)
